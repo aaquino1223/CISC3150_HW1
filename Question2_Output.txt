@@ -1,0 +1,43 @@
+Please enter the radius of a circle
+You typed in 5.0
+The area is 78.53981633974483
+
+Please enter the next radius
+You typed in 7.0
+The area is 153.93804002589985
+
+Please enter the next radius
+You typed in 10.0
+The area is 314.1592653589793
+
+Please enter the next radius
+You typed in 20.0
+The area is 1256.6370614359173
+
+Please enter the next radius
+You typed in 35.0
+The area is 3848.4510006474966
+
+Please enter the next radius
+You typed in 144.0
+The area is 65144.06526483795
+
+Please enter the next radius
+You typed in 322.0
+The area is 325732.8926948041
+
+Please enter the next radius
+You typed in 12.0
+The area is 452.3893421169302
+
+Please enter the next radius
+You typed in 28.0
+The area is 2463.0086404143976
+
+Please enter the next radius
+You typed in 56.0
+The area is 9852.03456165759
+
+Please enter the next radius
+
+No more circles to calculate
