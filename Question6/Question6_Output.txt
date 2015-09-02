@@ -1,0 +1,49 @@
+Please enter the center coordinates for Circle A
+Now enter the radius for Circle A
+
+Please enter the center coordinates for Circle B
+Now enter the radius for Circle B
+
+Calculating relationship between:
+Circle A - Center: (-1, -1) Radius: 4
+Circle B - Center: (7, 8) Radius: 2
+Circle A and Circle B are seperate from each other
+
+Would you like to try again? Y/N
+Please enter the center coordinates for Circle A
+Now enter the radius for Circle A
+
+Please enter the center coordinates for Circle B
+Now enter the radius for Circle B
+
+Calculating relationship between:
+Circle A - Center: (1, 1) Radius: 5
+Circle B - Center: (1, 11) Radius: 5
+Circle A and Circle B are touching each other
+
+Would you like to try again? Y/N
+Please enter the center coordinates for Circle A
+Now enter the radius for Circle A
+
+Please enter the center coordinates for Circle B
+Now enter the radius for Circle B
+
+Calculating relationship between:
+Circle A - Center: (2, 3) Radius: 6
+Circle B - Center: (6, 7) Radius: 13
+Circle A and Circle B are overlapping each other
+
+Would you like to try again? Y/N
+Please enter the center coordinates for Circle A
+Now enter the radius for Circle A
+
+Please enter the center coordinates for Circle B
+Now enter the radius for Circle B
+
+Calculating relationship between:
+Circle A - Center: (0, 0) Radius: 1
+Circle B - Center: (0, 0) Radius: 1
+Circle A and Circle B are completely within one another
+
+Would you like to try again? Y/N
+END OF PROGRAM
